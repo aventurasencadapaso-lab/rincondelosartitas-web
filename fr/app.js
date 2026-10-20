@@ -222,22 +222,3 @@
     backTop.addEventListener('click',function(){ window.scrollTo({top:0,behavior:'smooth'}); });
   }
 })();
-
-/* idioma: recordar elección y detectar el del navegador */
-(function(){
-  var KEY='lang-pref', SUP=['es','en','de','fr','it'];
-  function get(){ try{ return localStorage.getItem(KEY); }catch(e){ return null; } }
-  document.querySelectorAll('.lang-menu a').forEach(function(a){
-    a.addEventListener('click',function(){ try{ localStorage.setItem(KEY,a.getAttribute('hreflang')); }catch(e){} });
-  });
-  if(document.documentElement.lang!=='es' || /[?&]nolang/.test(location.search)) return;
-  var pref=get();
-  if(!pref){
-    var langs=(navigator.languages&&navigator.languages.length)?navigator.languages:[navigator.language||'es'];
-    for(var i=0;i<langs.length;i++){ var c=String(langs[i]).slice(0,2).toLowerCase(); if(SUP.indexOf(c)>-1){ pref=c; break; } }
-  }
-  if(pref && pref!=='es' && SUP.indexOf(pref)>-1){
-    var file=location.pathname.split('/').pop()||'index.html';
-    location.replace(pref+'/'+file+location.search+location.hash);
-  }
-})();

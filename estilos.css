@@ -1035,5 +1035,13 @@ footer{margin-top:24px;}
   .lang-sw .lang-btn:hover, .lang-sw.open .lang-btn{background:var(--c4) !important;color:#fff !important;border-radius:999px;}
   .lang-sw .submenu{right:0;}
 }
+.historia-sign{font-family:'Playfair Display',serif;font-style:italic;font-size:1.25rem;color:var(--ink);margin-top:6px;}
+
+/* logo del hero: sin círculo ni marco, flotando sobre la foto; sin manchas */
+.hero-banner::before,.hero-banner::after{display:none !important;}
+.hero-logo{border:0 !important;border-radius:0 !important;opacity:1 !important;object-fit:contain;
+  box-shadow:none !important;background:none !important;
+  filter:drop-shadow(0 0 3px rgba(255,255,255,.95)) drop-shadow(0 0 10px rgba(255,255,255,.85)) drop-shadow(0 8px 14px rgba(19,18,17,.18));}
+@media (min-width:761px){.hero-logo{width:clamp(200px,22vw,300px) !important;}}
 
 @media (max-width:1280px){.nav-toggle{margin-left:auto}}

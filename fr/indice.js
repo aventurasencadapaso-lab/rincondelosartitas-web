@@ -11,7 +11,7 @@ window.SEARCH_INDEX=[
   "t": "Qui sommes-nous",
   "u": "quienes-somos.html",
   "d": "Comment est né El Rincón de los Artistas et qui est derrière.",
-  "k": "historia fundador bellas artes tienda nosotros equipo histoire fondateur beaux-arts boutique qui sommes-nous equipe",
+  "k": "historia fundador bellas artes tienda nosotros equipo pedro encarna rodriguez perez histoire fondateur beaux-arts boutique qui sommes-nous equipe",
   "y": "Página",
   "yl": "Page"
  },

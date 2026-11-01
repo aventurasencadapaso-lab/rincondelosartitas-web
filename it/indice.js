@@ -84,7 +84,10 @@ window.SEARCH_INDEX=[
   "m": [
    "especialistas-en-acrilico",
    "amsterdam",
-   "creative-artist"
+   "creative-artist",
+   "nassau",
+   "art-creation",
+   "staedtler"
   ],
   "yl": "Categoria"
  },
@@ -99,7 +102,9 @@ window.SEARCH_INDEX=[
    "Pintura"
   ],
   "m": [
-   "especialistas-en-oleo"
+   "especialistas-en-oleo",
+   "derwent",
+   "art-creation"
   ],
   "yl": "Categoria"
  },
@@ -117,7 +122,12 @@ window.SEARCH_INDEX=[
    "especialistas-en-acuarela",
    "alpino",
    "manley",
-   "fabriano"
+   "fabriano",
+   "faber-castell",
+   "nassau",
+   "staedtler",
+   "sakura",
+   "winsor-newton"
   ],
   "yl": "Categoria"
  },
@@ -131,7 +141,9 @@ window.SEARCH_INDEX=[
   "g": [
    "Pintura"
   ],
-  "m": [],
+  "m": [
+   "art-creation"
+  ],
   "yl": "Categoria"
  },
  {
@@ -145,7 +157,13 @@ window.SEARCH_INDEX=[
    "Dibujo"
   ],
   "m": [
-   "dibujo-y-grafito"
+   "dibujo-y-grafito",
+   "bruynzeel",
+   "faber-castell",
+   "milan",
+   "koh-i-noor",
+   "nassau",
+   "van-gogh"
   ],
   "yl": "Categoria"
  },
@@ -163,7 +181,18 @@ window.SEARCH_INDEX=[
    "dibujo-y-grafito",
    "royal-langnickel",
    "alpino",
-   "craft-sensations"
+   "craft-sensations",
+   "bruynzeel",
+   "lyra",
+   "erich-krause",
+   "derwent",
+   "faber-castell",
+   "milan",
+   "koh-i-noor",
+   "colorino",
+   "cretacolor",
+   "nassau",
+   "staedtler"
   ],
   "yl": "Categoria"
  },
@@ -196,7 +225,9 @@ window.SEARCH_INDEX=[
   "g": [
    "Dibujo"
   ],
-  "m": [],
+  "m": [
+   "nassau"
+  ],
   "yl": "Categoria"
  },
  {
@@ -226,7 +257,13 @@ window.SEARCH_INDEX=[
   ],
   "m": [
    "papel-artistico",
-   "fabriano"
+   "fabriano",
+   "milan",
+   "nassau",
+   "clairefontaine",
+   "canson",
+   "art-creation",
+   "amperse"
   ],
   "yl": "Categoria"
  },
@@ -259,7 +296,9 @@ window.SEARCH_INDEX=[
    "moxy",
    "s-art",
    "carioca",
-   "play-doh"
+   "play-doh",
+   "artix",
+   "jovi"
   ],
   "yl": "Categoria"
  },
@@ -299,7 +338,9 @@ window.SEARCH_INDEX=[
   "g": [
    "Tienda"
   ],
-  "m": [],
+  "m": [
+   "la-pajarita"
+  ],
   "yl": "Categoria"
  },
  {
@@ -312,7 +353,9 @@ window.SEARCH_INDEX=[
   "g": [
    "Soportes y papel"
   ],
-  "m": [],
+  "m": [
+   "nassau"
+  ],
   "yl": "Categoria"
  },
  {
@@ -1171,6 +1214,1372 @@ window.SEARCH_INDEX=[
   "yl": "Prodotto"
  },
  {
+  "t": "Matite colorate pastello Expression Series, 12 pz.",
+  "u": "articulo-lapices-pastel-bruynzeel-12.html",
+  "d": "Bruynzeel · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo bruynzeel matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-pastel-bruynzeel-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "bruynzeel"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate Expression Colour, 24 pz.",
+  "u": "articulo-lapices-colores-bruynzeel-24.html",
+  "d": "Bruynzeel · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo bruynzeel matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-colores-bruynzeel-24",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "bruynzeel"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate Expression Colour, 12 pz.",
+  "u": "articulo-lapices-colores-bruynzeel-12.html",
+  "d": "Bruynzeel · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo bruynzeel matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-colores-bruynzeel-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "bruynzeel"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite di grafite Expression Series, 6 pz.",
+  "u": "articulo-lapices-grafito-bruynzeel-6.html",
+  "d": "Bruynzeel · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo bruynzeel matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-grafito-bruynzeel-6",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "bruynzeel"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite pastello Design, 24 pz.",
+  "u": "articulo-lapices-pastel-bruynzeel-design-24.html",
+  "d": "Bruynzeel · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles bruynzeel carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "lapices-pastel-bruynzeel-design-24",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "bruynzeel"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite di grafite Graduate, 12 pz.",
+  "u": "articulo-lapices-grafito-lyra-graduate-12.html",
+  "d": "Lyra · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo lyra matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-grafito-lyra-graduate-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "lyra"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite di grafite Art, 12 pz.",
+  "u": "articulo-lapices-grafito-erichkrause-12.html",
+  "d": "Erich Krause · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo erich krause matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-grafito-erichkrause-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "erich-krause"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite da schizzo Academy, 12 pz.",
+  "u": "articulo-lapices-boceto-derwent-academy-12.html",
+  "d": "Derwent · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo derwent matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-boceto-derwent-academy-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "derwent"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite Pitt Pastel, 36 pz.",
+  "u": "articulo-lapices-pitt-pastel-faber-castell-36.html",
+  "d": "Faber-Castell · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles faber-castell carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "lapices-pitt-pastel-faber-castell-36",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite Pitt Pastel, 24 pz.",
+  "u": "articulo-lapices-pitt-pastel-faber-castell-24.html",
+  "d": "Faber-Castell · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles faber-castell carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "lapices-pitt-pastel-faber-castell-24",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite Pitt Pastel, 12 pz.",
+  "u": "articulo-lapices-pitt-pastel-faber-castell-12.html",
+  "d": "Faber-Castell · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles faber-castell carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "lapices-pitt-pastel-faber-castell-12",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate Polychromos, 12 pz.",
+  "u": "articulo-lapices-polychromos-faber-castell-12.html",
+  "d": "Faber-Castell · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo faber-castell matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-polychromos-faber-castell-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate, 12 pz.",
+  "u": "articulo-lapices-colores-faber-castell-12.html",
+  "d": "Faber-Castell · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo faber-castell matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-colores-faber-castell-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate Colors of Nature, 24 pz.",
+  "u": "articulo-lapices-colors-of-nature-faber-castell-24.html",
+  "d": "Faber-Castell · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo faber-castell matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-colors-of-nature-faber-castell-24",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set da disegno a carboncino, 7 pezzi",
+  "u": "articulo-set-carboncillo-faber-castell.html",
+  "d": "Faber-Castell · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles faber-castell carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "set-carboncillo-faber-castell",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate in scatola di latta, 24 pz.",
+  "u": "articulo-lapices-colores-milan-24.html",
+  "d": "Milan · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo milan matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-colores-milan-24",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "milan"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate Polycolor, 36 pz.",
+  "u": "articulo-lapices-polycolor-koh-i-noor-36.html",
+  "d": "Koh-i-Noor · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo koh-i-noor matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-polycolor-koh-i-noor-36",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "koh-i-noor"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate Polycolor, 24 pz.",
+  "u": "articulo-lapices-polycolor-koh-i-noor-24.html",
+  "d": "Koh-i-Noor · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo koh-i-noor matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-polycolor-koh-i-noor-24",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "koh-i-noor"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Barrette di seppia (toni ocra e marrone)",
+  "u": "articulo-barras-sepia-koh-i-noor.html",
+  "d": "Koh-i-Noor · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles koh-i-noor carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "barras-sepia-koh-i-noor",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "koh-i-noor"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set da disegno Artist in scatola di latta, 12 pezzi",
+  "u": "articulo-set-dibujo-artista-colorino-12.html",
+  "d": "Colorino · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo colorino matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "set-dibujo-artista-colorino-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "colorino"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite di grafite Monolith sfuse (HB, 2B, 4B, 6B)",
+  "u": "articulo-lapices-grafito-cretacolor-monolith.html",
+  "d": "Cretacolor · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo cretacolor matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-grafito-cretacolor-monolith",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "cretacolor"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello con disegni prestampati, 30 x 40 cm",
+  "u": "articulo-bloc-acuarela-predibujado-clairefontaine-30x40.html",
+  "d": "Clairefontaine · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios clairefontaine quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-predibujado-clairefontaine-30x40",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "clairefontaine"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello con disegni prestampati, 24 x 30 cm",
+  "u": "articulo-bloc-acuarela-predibujado-clairefontaine-24x30.html",
+  "d": "Clairefontaine · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios clairefontaine quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-predibujado-clairefontaine-24x30",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "clairefontaine"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocchi a spirale Odelia",
+  "u": "articulo-blocs-espiral-clairefontaine-odelia.html",
+  "d": "Clairefontaine · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios clairefontaine quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "blocs-espiral-clairefontaine-odelia",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "clairefontaine"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocchi acquerello Fabriano 5, 20 fogli",
+  "u": "articulo-bloc-acuarela-fabriano-5.html",
+  "d": "Fabriano · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios fabriano quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-fabriano-5",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "fabriano"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco Mixed Media, 29,7 x 42 cm",
+  "u": "articulo-bloc-mixed-media-fabriano.html",
+  "d": "Fabriano · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios fabriano quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-mixed-media-fabriano",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "fabriano"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pennelli assortiti di molte forme e dimensioni",
+  "u": "articulo-pinceles-surtidos-expositor.html",
+  "d": "Pennelli e spatole",
+  "k": "producto articulo pinceles y espátulaspincel brochas espatulas pennello pennelli spatole prodotto articolo pennelli e spatole",
+  "y": "Producto",
+  "id": "pinceles-surtidos-expositor",
+  "cat": "pinceles",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Calligraphy Set, 35 pezzi",
+  "u": "articulo-set-caligrafia-nassau-35.html",
+  "d": "Nassau · Accessori",
+  "k": "producto articulo complementosaccesorios nassau prodotto articolo accessori accessori",
+  "y": "Producto",
+  "id": "set-caligrafia-nassau-35",
+  "cat": "complementos",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set penna da calligrafia con quaderno e calamaio",
+  "u": "articulo-set-pluma-caligrafia-cuaderno.html",
+  "d": "Accessori",
+  "k": "producto articulo complementosaccesorios prodotto articolo accessori accessori",
+  "y": "Producto",
+  "id": "set-pluma-caligrafia-cuaderno",
+  "cat": "complementos",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set penna da calligrafia con sigillo di ceralacca",
+  "u": "articulo-set-pluma-caligrafia-lacre.html",
+  "d": "Accessori",
+  "k": "producto articulo complementosaccesorios prodotto articolo accessori accessori",
+  "y": "Producto",
+  "id": "set-pluma-caligrafia-lacre",
+  "cat": "complementos",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Colori e vernici: tessuto, metallizzata, satinata e vernici",
+  "u": "articulo-pinturas-barnices-la-pajarita.html",
+  "d": "La Pajarita · Pitture decorative",
+  "k": "producto articulo pinturas decorativaspintura pared decorar la pajarita pittura parete decorare prodotto articolo pitture decorative",
+  "y": "Producto",
+  "id": "pinturas-barnices-la-pajarita",
+  "cat": "decorativas",
+  "g": [
+   "Tienda"
+  ],
+  "m": [
+   "la-pajarita"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Fissativi, adesivi spray, gesso e medium",
+  "u": "articulo-fijadores-adhesivos-gesso-mediums.html",
+  "d": "Pittura acrilica",
+  "k": "producto articulo pintura acrílicaacrilicos pintura acrilica tubos acrilico acrilici pittura acrilica tubetti prodotto articolo pittura acrilica",
+  "y": "Producto",
+  "id": "fijadores-adhesivos-gesso-mediums",
+  "cat": "acrilico",
+  "g": [
+   "Pintura"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Plastilina e paste da modellare",
+  "u": "articulo-plastilina-masas-modelar.html",
+  "d": "Play-Doh · Hobby creativi",
+  "k": "producto articulo manualidadescreatividad diy play-doh prodotto articolo creativita hobby creativi diy hobby creativi",
+  "y": "Producto",
+  "id": "plastilina-masas-modelar",
+  "cat": "manualidades",
+  "g": [
+   "Tienda"
+  ],
+  "m": [
+   "play-doh"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Tele su telaio di varie dimensioni",
+  "u": "articulo-lienzos-bastidor-surtidos.html",
+  "d": "Tele e cavalletti",
+  "k": "producto articulo lienzos y caballeteslienzo lienzos caballete bastidor tela tele cavalletto telaio prodotto articolo tele e cavalletti",
+  "y": "Producto",
+  "id": "lienzos-bastidor-surtidos",
+  "cat": "soportes",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Quaderno Sketch Book, 80 fogli, 21,5 x 28 cm",
+  "u": "articulo-cuaderno-sketch-book-art-creation.html",
+  "d": "Art Creation · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios art creation quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "cuaderno-sketch-book-art-creation",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "art-creation"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Quaderno Mixed Media Art Journal",
+  "u": "articulo-cuaderno-art-journal-clairefontaine.html",
+  "d": "Clairefontaine · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios clairefontaine quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "cuaderno-art-journal-clairefontaine",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "clairefontaine"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Quaderno per acquerello, 14 x 14 cm",
+  "u": "articulo-cuaderno-acuarela-amperse-14x14.html",
+  "d": "Amperse · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios amperse quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "cuaderno-acuarela-amperse-14x14",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "amperse"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Sketchbook con copertina rigida, 13 x 21 cm",
+  "u": "articulo-cuaderno-sketchbook-nassau.html",
+  "d": "Nassau · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios nassau quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "cuaderno-sketchbook-nassau",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello 1420 The Master Gum, formato piccolo",
+  "u": "articulo-bloc-acuarela-milan-1420-pequeno.html",
+  "d": "Milan · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios milan quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-milan-1420-pequeno",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "milan"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello 1420 The Master Gum, formato grande",
+  "u": "articulo-bloc-acuarela-milan-1420-grande.html",
+  "d": "Milan · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios milan quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-milan-1420-grande",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "milan"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello A4, 15 fogli",
+  "u": "articulo-bloc-acuarela-amperse-a4.html",
+  "d": "Amperse · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios amperse quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-amperse-a4",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "amperse"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Quaderno per acquerello A5, 30 fogli",
+  "u": "articulo-bloc-acuarela-amperse-a5.html",
+  "d": "Amperse · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios amperse quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-amperse-a5",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "amperse"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Stecche da modellare, 10 pz.",
+  "u": "articulo-palillos-modelar-10.html",
+  "d": "Hobby creativi",
+  "k": "producto articulo manualidadescreatividad diy prodotto articolo creativita hobby creativi diy hobby creativi",
+  "y": "Producto",
+  "id": "palillos-modelar-10",
+  "cat": "manualidades",
+  "g": [
+   "Tienda"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Spatole da pittore Painters Knives",
+  "u": "articulo-espatulas-pintor-nassau.html",
+  "d": "Nassau · Pennelli e spatole",
+  "k": "producto articulo pinceles y espátulaspincel brochas espatulas nassau pennello pennelli spatole prodotto articolo pennelli e spatole",
+  "y": "Producto",
+  "id": "espatulas-pintor-nassau",
+  "cat": "pinceles",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Utensili da modellazione Modelling Tools",
+  "u": "articulo-herramientas-modelado-artix-5.html",
+  "d": "Artix · Hobby creativi",
+  "k": "producto articulo manualidadescreatividad diy artix prodotto articolo creativita hobby creativi diy hobby creativi",
+  "y": "Producto",
+  "id": "herramientas-modelado-artix-5",
+  "cat": "manualidades",
+  "g": [
+   "Tienda"
+  ],
+  "m": [
+   "artix"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set di utensili da modellazione e scultura",
+  "u": "articulo-set-modelado-escultura-artix.html",
+  "d": "Artix · Hobby creativi",
+  "k": "producto articulo manualidadescreatividad diy artix prodotto articolo creativita hobby creativi diy hobby creativi",
+  "y": "Producto",
+  "id": "set-modelado-escultura-artix",
+  "cat": "manualidades",
+  "g": [
+   "Tienda"
+  ],
+  "m": [
+   "artix"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Kit di utensili per ceramica Pottery Tool Kit",
+  "u": "articulo-kit-ceramica-pottery-tool.html",
+  "d": "Hobby creativi",
+  "k": "producto articulo manualidadescreatividad diy prodotto articolo creativita hobby creativi diy hobby creativi",
+  "y": "Producto",
+  "id": "kit-ceramica-pottery-tool",
+  "cat": "manualidades",
+  "g": [
+   "Tienda"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Spatole da modellare Modelling Spatulas",
+  "u": "articulo-espatulas-modelar-jovi.html",
+  "d": "Jovi · Hobby creativi",
+  "k": "producto articulo manualidadescreatividad diy jovi prodotto articolo creativita hobby creativi diy hobby creativi",
+  "y": "Producto",
+  "id": "espatulas-modelar-jovi",
+  "cat": "manualidades",
+  "g": [
+   "Tienda"
+  ],
+  "m": [
+   "jovi"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco Michel da disegno e acquerello scolastico, A4",
+  "u": "articulo-bloc-dibujo-acuarela-escolar-michel.html",
+  "d": "Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-dibujo-acuarela-escolar-michel",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco da disegno Scuola A4+, 20 fogli",
+  "u": "articulo-bloc-dibujo-fabriano-scuola.html",
+  "d": "Fabriano · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios fabriano quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-dibujo-fabriano-scuola",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "fabriano"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello a grana grossa, formato grande",
+  "u": "articulo-bloc-acuarela-canson-guarro-grande.html",
+  "d": "Canson · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios canson quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-canson-guarro-grande",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "canson"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello a grana grossa, 23 x 32,5 cm",
+  "u": "articulo-bloc-acuarela-canson-guarro-pequeno.html",
+  "d": "Canson · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios canson quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-canson-guarro-pequeno",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "canson"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco Aquarel a grana fine",
+  "u": "articulo-bloc-aquarel-nassau.html",
+  "d": "Nassau · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios nassau quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-aquarel-nassau",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco acquerello 1264 a spirale",
+  "u": "articulo-bloc-acuarela-fabriano-1264.html",
+  "d": "Fabriano · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios fabriano quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-acuarela-fabriano-1264",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "fabriano"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Canvas Pad per acrilico e olio, A4",
+  "u": "articulo-bloc-canvas-pad-nassau.html",
+  "d": "Nassau · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios nassau quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-canvas-pad-nassau",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Blocco XL Dessin Noir, carta nera A4",
+  "u": "articulo-bloc-dessin-noir-canson.html",
+  "d": "Canson · Carta e album da disegno",
+  "k": "producto articulo papel y sketchbookscuaderno cuadernos bloc sketchbook folios canson quaderno quaderni blocco album fogli carta prodotto articolo carta e album da disegno",
+  "y": "Producto",
+  "id": "bloc-dessin-noir-canson",
+  "cat": "papel",
+  "g": [
+   "Soportes y papel"
+  ],
+  "m": [
+   "canson"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set da disegno Drawing / Sketching Set",
+  "u": "articulo-set-dibujo-nassau-drawing-sketching.html",
+  "d": "Nassau · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo nassau matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "set-dibujo-nassau-drawing-sketching",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Barrette di carboncino naturale, 5 pz.",
+  "u": "articulo-barritas-carboncillo-milan.html",
+  "d": "Milan · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles milan carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "barritas-carboncillo-milan",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "milan"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate metallizzate Kids, 10 pz.",
+  "u": "articulo-lapices-metalicos-colorino-10.html",
+  "d": "Colorino · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo colorino matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-metalicos-colorino-10",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "colorino"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite metallizzate in scatola di latta, 12 pz.",
+  "u": "articulo-lapices-metalicos-nassau-12.html",
+  "d": "Nassau · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo nassau matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-metalicos-nassau-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set da schizzo e disegno Artist, 15 pezzi",
+  "u": "articulo-set-boceto-dibujo-artist-15.html",
+  "d": "Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "set-boceto-dibujo-artist-15",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set da disegno Artist, 5 pezzi",
+  "u": "articulo-set-dibujo-artist-5.html",
+  "d": "Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "set-dibujo-artist-5",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Tubo di matite da schizzo Artist, 20 pz.",
+  "u": "articulo-tubo-lapices-boceto-artist-20.html",
+  "d": "Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "tubo-lapices-boceto-artist-20",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Matite colorate super soft, 12 pz.",
+  "u": "articulo-lapices-colores-staedtler-12.html",
+  "d": "Staedtler · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo staedtler matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "lapices-colores-staedtler-12",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "staedtler"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Gessetti pastello Policromi, 36 pz.",
+  "u": "articulo-tizas-pastel-policromi-36.html",
+  "d": "Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "tizas-pastel-policromi-36",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pastelli a olio, 24 pz.",
+  "u": "articulo-pasteles-oleo-faber-castell-24.html",
+  "d": "Faber-Castell · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles faber-castell carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "pasteles-oleo-faber-castell-24",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pastelli morbidi, 36 pz.",
+  "u": "articulo-pasteles-blandos-manley-36.html",
+  "d": "Manley · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles manley carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "pasteles-blandos-manley-36",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "manley"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pastelli a olio, 12 pz.",
+  "u": "articulo-pasteles-oleo-faber-castell-12.html",
+  "d": "Faber-Castell · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles faber-castell carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "pasteles-oleo-faber-castell-12",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pastelli morbidi, 12 pz.",
+  "u": "articulo-pasteles-blandos-faber-castell-12.html",
+  "d": "Faber-Castell · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles faber-castell carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "pasteles-blandos-faber-castell-12",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pastelli a olio Oil Pastels, 24 pz.",
+  "u": "articulo-pasteles-oleo-nassau-24.html",
+  "d": "Nassau · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles nassau carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "pasteles-oleo-nassau-24",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pastelli Carré, 24 pz.",
+  "u": "articulo-pasteles-carre-van-gogh-24.html",
+  "d": "Van Gogh · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles van gogh carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "pasteles-carre-van-gogh-24",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "van-gogh"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pastelli Carré, 12 pz.",
+  "u": "articulo-pasteles-carre-van-gogh-12.html",
+  "d": "Van Gogh · Carboncino e pastelli",
+  "k": "producto articulo carboncillo y pastelescarbon pastel pasteles van gogh carboncino pastello pastelli prodotto articolo carboncino e pastelli",
+  "y": "Producto",
+  "id": "pasteles-carre-van-gogh-12",
+  "cat": "carboncillo",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "van-gogh"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Acquerelli Koi Water Colors, scatola tascabile da 18 colori",
+  "u": "articulo-acuarelas-sakura-koi-18.html",
+  "d": "Sakura · Acquerello",
+  "k": "producto articulo acuarelaacuarelas aguada sakura prodotto articolo acquerello acquerelli acquerello",
+  "y": "Producto",
+  "id": "acuarelas-sakura-koi-18",
+  "cat": "acuarela",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "sakura"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Acquerelli Creative Studio, 24 colori",
+  "u": "articulo-acuarelas-faber-castell-24.html",
+  "d": "Faber-Castell · Acquerello",
+  "k": "producto articulo acuarelaacuarelas aguada faber-castell prodotto articolo acquerello acquerelli acquerello",
+  "y": "Producto",
+  "id": "acuarelas-faber-castell-24",
+  "cat": "acuarela",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Acquerelli Creative Studio, 36 colori",
+  "u": "articulo-acuarelas-faber-castell-36.html",
+  "d": "Faber-Castell · Acquerello",
+  "k": "producto articulo acuarelaacuarelas aguada faber-castell prodotto articolo acquerello acquerelli acquerello",
+  "y": "Producto",
+  "id": "acuarelas-faber-castell-36",
+  "cat": "acuarela",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "faber-castell"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Pennelli con inchiostro acquerellabile Ink Brush, 12 pz.",
+  "u": "articulo-pinceles-tinta-artist-ink-brush-12.html",
+  "d": "Pennelli e spatole",
+  "k": "producto articulo pinceles y espátulaspincel brochas espatulas pennello pennelli spatole prodotto articolo pennelli e spatole",
+  "y": "Producto",
+  "id": "pinceles-tinta-artist-ink-brush-12",
+  "cat": "pinceles",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Acquerelli Cotman, set tascabile da 13 pezzi",
+  "u": "articulo-acuarelas-winsor-newton-cotman-13.html",
+  "d": "Winsor & Newton · Acquerello",
+  "k": "producto articulo acuarelaacuarelas aguada winsor & newton prodotto articolo acquerello acquerelli acquerello",
+  "y": "Producto",
+  "id": "acuarelas-winsor-newton-cotman-13",
+  "cat": "acuarela",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "winsor-newton"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set acquerello Aquarel Set, 18 colori e pennello",
+  "u": "articulo-set-acuarela-nassau-18.html",
+  "d": "Nassau · Acquerello",
+  "k": "producto articulo acuarelaacuarelas aguada nassau prodotto articolo acquerello acquerelli acquerello",
+  "y": "Producto",
+  "id": "set-acuarela-nassau-18",
+  "cat": "acuarela",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Acquerelli in tubetto, 12 pz.",
+  "u": "articulo-acuarelas-staedtler-12.html",
+  "d": "Staedtler · Acquerello",
+  "k": "producto articulo acuarelaacuarelas aguada staedtler prodotto articolo acquerello acquerelli acquerello",
+  "y": "Producto",
+  "id": "acuarelas-staedtler-12",
+  "cat": "acuarela",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "staedtler"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Colori a olio Academy, 12 tubetti",
+  "u": "articulo-oleo-derwent-academy-12.html",
+  "d": "Derwent · Olio",
+  "k": "producto articulo óleooleos pintura al oleo derwent olio oli pittura a olio prodotto articolo olio",
+  "y": "Producto",
+  "id": "oleo-derwent-academy-12",
+  "cat": "oleo",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "derwent"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Colori a olio Oil Colour, 12 tubetti da 12 ml",
+  "u": "articulo-oleo-art-creation-12.html",
+  "d": "Art Creation · Olio",
+  "k": "producto articulo óleooleos pintura al oleo art creation olio oli pittura a olio prodotto articolo olio",
+  "y": "Producto",
+  "id": "oleo-art-creation-12",
+  "cat": "oleo",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "art-creation"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set Metallic Mixed Media, 19 pezzi",
+  "u": "articulo-set-mixed-media-metalico-nassau-19.html",
+  "d": "Nassau · Matite artistiche",
+  "k": "producto articulo lápices artísticoslapiz grafito colores dibujo nassau matita grafite colori disegno prodotto articolo matite artistiche",
+  "y": "Producto",
+  "id": "set-mixed-media-metalico-nassau-19",
+  "cat": "lapices",
+  "g": [
+   "Dibujo"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Colori acrilici, 12 tubetti da 12 ml",
+  "u": "articulo-acrilico-staedtler-12.html",
+  "d": "Staedtler · Pittura acrilica",
+  "k": "producto articulo pintura acrílicaacrilicos pintura acrilica tubos staedtler acrilico acrilici pittura acrilica tubetti prodotto articolo pittura acrilica",
+  "y": "Producto",
+  "id": "acrilico-staedtler-12",
+  "cat": "acrilico",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "staedtler"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Colori acrilici Acrylic, 12 tubetti da 12 ml",
+  "u": "articulo-acrilico-art-creation-12.html",
+  "d": "Art Creation · Pittura acrilica",
+  "k": "producto articulo pintura acrílicaacrilicos pintura acrilica tubos art creation acrilico acrilici pittura acrilica tubetti prodotto articolo pittura acrilica",
+  "y": "Producto",
+  "id": "acrilico-art-creation-12",
+  "cat": "acrilico",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "art-creation"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Set di colori acrilici, 8 tubetti da 12 ml",
+  "u": "articulo-acrilico-nassau-8x12.html",
+  "d": "Nassau · Pittura acrilica",
+  "k": "producto articulo pintura acrílicaacrilicos pintura acrilica tubos nassau acrilico acrilici pittura acrilica tubetti prodotto articolo pittura acrilica",
+  "y": "Producto",
+  "id": "acrilico-nassau-8x12",
+  "cat": "acrilico",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Acquerello Aquarel, 36 colori in scatola di latta",
+  "u": "articulo-acuarela-nassau-36-colores.html",
+  "d": "Nassau · Acquerello",
+  "k": "producto articulo acuarelaacuarelas aguada nassau prodotto articolo acquerello acquerelli acquerello",
+  "y": "Producto",
+  "id": "acuarela-nassau-36-colores",
+  "cat": "acuarela",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "nassau"
+  ],
+  "yl": "Prodotto"
+ },
+ {
+  "t": "Gouache Expression, 5 tubetti da 12 ml",
+  "u": "articulo-gouache-art-creation-5x12.html",
+  "d": "Art Creation · Gouache",
+  "k": "producto articulo gouacheguache temple art creation prodotto articolo gouache tempera gouache",
+  "y": "Producto",
+  "id": "gouache-art-creation-5x12",
+  "cat": "gouache",
+  "g": [
+   "Pintura"
+  ],
+  "m": [
+   "art-creation"
+  ],
+  "yl": "Prodotto"
+ },
+ {
   "t": "Amsterdam",
   "u": "marca-amsterdam.html",
   "d": "Pittura acrilica Amsterdam in tubetto, per artisti e studenti.",
@@ -1385,6 +2794,346 @@ window.SEARCH_INDEX=[
   "g": [
    "Pintura",
    "Soportes y papel"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Bruynzeel",
+  "u": "marca-bruynzeel.html",
+  "d": "Matite colorate, di grafite e pastello Bruynzeel di qualità artistica.",
+  "k": "marca marcas bruynzeel marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "bruynzeel",
+  "c": [
+   "lapices",
+   "carboncillo"
+  ],
+  "g": [
+   "Dibujo"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Lyra",
+  "u": "marca-lyra.html",
+  "d": "Matite di grafite Lyra Graduate per disegno e ombreggiatura.",
+  "k": "marca marcas lyra marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "lyra",
+  "c": [
+   "lapices"
+  ],
+  "g": [
+   "Dibujo"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Erich Krause",
+  "u": "marca-erich-krause.html",
+  "d": "Matite di grafite Erich Krause in set da disegno.",
+  "k": "marca marcas erich krause marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "erich-krause",
+  "c": [
+   "lapices"
+  ],
+  "g": [
+   "Dibujo"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Derwent",
+  "u": "marca-derwent.html",
+  "d": "Matite da schizzo Derwent Academy in scatola di latta.",
+  "k": "marca marcas derwent marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "derwent",
+  "c": [
+   "lapices",
+   "oleo"
+  ],
+  "g": [
+   "Dibujo",
+   "Pintura"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Faber-Castell",
+  "u": "marca-faber-castell.html",
+  "d": "Matite Polychromos e Pitt, pastelli, carboncino e acquerelli Faber-Castell.",
+  "k": "marca marcas faber-castell marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "faber-castell",
+  "c": [
+   "carboncillo",
+   "lapices",
+   "acuarela"
+  ],
+  "g": [
+   "Dibujo",
+   "Pintura"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Milan",
+  "u": "marca-milan.html",
+  "d": "Matite colorate, quaderni da schizzi e materiale da disegno Milan.",
+  "k": "marca marcas milan marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "milan",
+  "c": [
+   "lapices",
+   "papel",
+   "carboncillo"
+  ],
+  "g": [
+   "Dibujo",
+   "Soportes y papel"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Koh-i-Noor",
+  "u": "marca-koh-i-noor.html",
+  "d": "Matite Polycolor e barrette di seppia Koh-i-Noor Hardtmuth.",
+  "k": "marca marcas koh-i-noor marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "koh-i-noor",
+  "c": [
+   "lapices",
+   "carboncillo"
+  ],
+  "g": [
+   "Dibujo"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Colorino",
+  "u": "marca-colorino.html",
+  "d": "Set da disegno Colorino Artist in scatola di latta.",
+  "k": "marca marcas colorino marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "colorino",
+  "c": [
+   "lapices"
+  ],
+  "g": [
+   "Dibujo"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Cretacolor",
+  "u": "marca-cretacolor.html",
+  "d": "Matite di grafite Monolith di Cretacolor.",
+  "k": "marca marcas cretacolor marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "cretacolor",
+  "c": [
+   "lapices"
+  ],
+  "g": [
+   "Dibujo"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Nassau",
+  "u": "marca-nassau.html",
+  "d": "Set da disegno, calligrafia, acquerello e pastelli Nassau Fine Art.",
+  "k": "marca marcas nassau marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "nassau",
+  "c": [
+   "complementos",
+   "papel",
+   "pinceles",
+   "lapices",
+   "carboncillo",
+   "acuarela",
+   "acrilico"
+  ],
+  "g": [
+   "Dibujo",
+   "Pintura",
+   "Soportes y papel"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Clairefontaine",
+  "u": "marca-clairefontaine.html",
+  "d": "Blocchi per acquerello e disegno Clairefontaine.",
+  "k": "marca marcas clairefontaine marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "clairefontaine",
+  "c": [
+   "papel"
+  ],
+  "g": [
+   "Soportes y papel"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Canson",
+  "u": "marca-canson.html",
+  "d": "Blocchi per acquerello e disegno Canson.",
+  "k": "marca marcas canson marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "canson",
+  "c": [
+   "papel"
+  ],
+  "g": [
+   "Soportes y papel"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Artix",
+  "u": "marca-artix.html",
+  "d": "Utensili da modellazione e scultura Artix.",
+  "k": "marca marcas artix marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "artix",
+  "c": [
+   "manualidades"
+  ],
+  "g": [
+   "Tienda"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Jovi",
+  "u": "marca-jovi.html",
+  "d": "Kit per ceramica e spatole da modellare Jovi.",
+  "k": "marca marcas jovi marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "jovi",
+  "c": [
+   "manualidades"
+  ],
+  "g": [
+   "Tienda"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "La Pajarita",
+  "u": "marca-la-pajarita.html",
+  "d": "Colori decorativi, per tessuto e vernici La Pajarita.",
+  "k": "marca marcas la pajarita marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "la-pajarita",
+  "c": [
+   "decorativas"
+  ],
+  "g": [
+   "Tienda"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Art Creation",
+  "u": "marca-art-creation.html",
+  "d": "Acquerello, olio, acrilico e gouache Art Creation.",
+  "k": "marca marcas art creation marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "art-creation",
+  "c": [
+   "papel",
+   "oleo",
+   "acrilico",
+   "gouache"
+  ],
+  "g": [
+   "Pintura",
+   "Soportes y papel"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Amperse",
+  "u": "marca-amperse.html",
+  "d": "Quaderni e blocchi per acquerello Amperse.",
+  "k": "marca marcas amperse marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "amperse",
+  "c": [
+   "papel"
+  ],
+  "g": [
+   "Soportes y papel"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Staedtler",
+  "u": "marca-staedtler.html",
+  "d": "Matite, acquerelli e colori acrilici Staedtler.",
+  "k": "marca marcas staedtler marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "staedtler",
+  "c": [
+   "lapices",
+   "acuarela",
+   "acrilico"
+  ],
+  "g": [
+   "Dibujo",
+   "Pintura"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Van Gogh",
+  "u": "marca-van-gogh.html",
+  "d": "Pastelli Carré Van Gogh di Royal Talens.",
+  "k": "marca marcas van gogh marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "van-gogh",
+  "c": [
+   "carboncillo"
+  ],
+  "g": [
+   "Dibujo"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Sakura",
+  "u": "marca-sakura.html",
+  "d": "Acquerelli tascabili Sakura Koi.",
+  "k": "marca marcas sakura marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "sakura",
+  "c": [
+   "acuarela"
+  ],
+  "g": [
+   "Pintura"
+  ],
+  "yl": "Marchio o specialità"
+ },
+ {
+  "t": "Winsor & Newton",
+  "u": "marca-winsor-newton.html",
+  "d": "Acquerelli Cotman di Winsor & Newton.",
+  "k": "marca marcas winsor & newton marchio marchi",
+  "y": "Marca o especialidad",
+  "id": "winsor-newton",
+  "c": [
+   "acuarela"
+  ],
+  "g": [
+   "Pintura"
   ],
   "yl": "Marchio o specialità"
  },
